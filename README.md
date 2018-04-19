@@ -9,3 +9,9 @@ doing something  make me happy
  
 
 * 1.jayzhou歌词分析
+  * jayzhou.txt  Jay歌词大全
+  * test.py  字个数统计
+  * test.txt 字统计结果
+  * jieba_segment.py 结巴分词
+  * nlpjayzhou.py 用nlp的结果直接进行分词
+  * jiebaresult.txt 结巴分词结果
