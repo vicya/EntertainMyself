@@ -15,3 +15,7 @@ doing something  make me happy
   * jieba_segment.py 结巴分词
   * nlp_segment.py 用nlp的结果直接进行分词
   * jiebaresult.txt 结巴分词结果
+* 2.大众点评数据爬取
+  * spider_high.py 爬取大众点评上海三项评分均 > 8 的店
+  * goodshop.txt 爬取结果
+ 
